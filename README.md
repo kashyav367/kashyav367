@@ -6,16 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygenuinedoubt&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygenuinedoubt" /> </p>
 
-- 🔭 I’m currently working on [Compiler](https://github.com/Ajaygenuinedoubt/Compiler)
+- 🔭 I’m currently working on [Compiler](https://github.com/kashyav367/kashyav367)
 
 - 🌱 I’m currently learning *React.js*
 
 - 👯 I’m looking to collaborate on *Financial-Risk Management*
 
-- 👨‍💻 All of my projects are available at [https://ajaygenuinedoubt.github.io/AJAY-PORTFOLIO/](https://ajaygenuinedoubt.github.io/AJAY-PORTFOLIO/)
-- My Resume is available here:-[https://campus.rtcamp.com/files/Ajay%20Kumar%20Jha%20REs.pdf](https://campus.rtcamp.com/files/Ajay%20Kumar%20Jha%20REs.pdf)
+- 👨‍💻 All of my projects are available at 
+- My Resume is available here:-[
 
-- 📝 I regularly write articles on [www.genuinedoubt.blogspot.com](www.genuinedoubt.blogspot.com)
+- 📝 I regularly write articles on [)
 
 - 💬 Ask me about *HTML,CSS,Javascript & PHP*
 
