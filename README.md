@@ -23,9 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ajay-kumar-jha-30b612261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/me-ankit-singh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25164483/ajay-kumar-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25164483/ajay-kumar-jha?tab=profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ajaykashyap.ai?utm_source=qr&igsh=MWwydDQ1YzFrNmhpaQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ajaykashyap.ai?igsh=mwwyddq1yzfrnmhpaq==" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/me-ankit-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/me-ankit-singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ankitkrsingh0207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@genuinedoubt2216" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ankitkrsingh0207//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/" height="30" width="40" /></a>
 </p>
@@ -38,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&locale=en" alt="kashyav367" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyav367&" alt="kashyav367" /></p>
+
