@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Compiler](https://github.com/kashyav367/kashyav367)
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently learning *Full stack development*
 
-- 👯 I’m looking to collaborate on *Financial-Risk Management*
+- 👯 I’m looking to collaborate on projects as a developer.
 
 - 👨‍💻 All of my projects are available in my github repo
 - My Resume is available here soon
