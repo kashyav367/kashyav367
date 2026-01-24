@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on *Financial-Risk Management*
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available in my github repo
 - My Resume is available here soon
 
 - 📝 I regularly write articles on [https://hashnode.com/@ankit282]
