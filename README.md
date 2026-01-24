@@ -13,9 +13,9 @@
 - 👯 I’m looking to collaborate on *Financial-Risk Management*
 
 - 👨‍💻 All of my projects are available at 
-- My Resume is available here:-[
+- My Resume is available here soon
 
-- 📝 I regularly write articles on [)
+- 📝 I regularly write articles on [https://hashnode.com/@ankit282]
 
 - 💬 Ask me about *HTML,CSS,Javascript & PHP*
 
