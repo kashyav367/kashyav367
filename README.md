@@ -12,6 +12,8 @@
 
 ### FULL-STACK DEVELOPER
 
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="70"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="70">
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=FF5C00&center=true&vCenter=true&width=560&lines=BUILDING+SCALABLE+WEB+APPS;REACT+%7C+NODE.JS+%7C+TYPESCRIPT;DSA+%2B+SYSTEM+DESIGN;OPEN+TO+WORK+%5B%E2%96%A0%E2%96%A0%E2%96%A0%5D" alt="Typing SVG" />
 </a>
@@ -51,6 +53,10 @@
 - `[ ]` Currently deepening **React ecosystem, backend architecture, and DSA**
 - `[ ]` Writing technical articles on **[Hashnode](https://hashnode.com/@ankit282)**
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450"/>
+</div>
+
 <br/>
 
 ## `[ TECH_STACK ]`
@@ -74,6 +80,10 @@
 <br/>
 
 ## `[ GITHUB_STATS ]`
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="300"/>
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff" height="165" />
@@ -113,6 +123,8 @@
 ```
 
 ### `★ STAR THIS PROFILE IF YOU LIKE THE WORK ★`
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="280"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,100:0D0D0D&height=4&width=100%25" width="100%"/>
 
