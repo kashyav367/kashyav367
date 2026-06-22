@@ -27,10 +27,14 @@
 
 </td>
 <td width="40%" align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="270"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="300"/>
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&width=100%25" width="100%"/>
@@ -52,6 +56,10 @@ ankit@dev-machine ~ % cat focus.txt
 ankit@dev-machine ~ % status
 > 🟡 Available for opportunities
 ```
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="450"/>
+</div>
 
 <br/>
 
@@ -75,6 +83,10 @@ ankit@dev-machine ~ % status
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="320"/>
 </div>
 
 <div align="center">
@@ -114,6 +126,10 @@ ankit@dev-machine ~ % status
 <br/>
 
 ## 🌟 Highlight Projects
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="480"/>
+</div>
 
 <div align="center">
 
