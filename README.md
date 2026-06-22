@@ -1,131 +1,191 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,100:0D0D0D&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,50:1a0a00,100:0D0D0D&height=3&width=100%"/>
 
-<br/>
+</div>
 
 ```
-(■) (■) :::::::::::::::::: ████████ :::::::::::::::::: (■) (■)
+  ▄████████████████████████████████████████████████████████████████████▄
+  █                                                                      █
+  █   ┌─────────────────────────────────────────────────────────────┐   █
+  █   │  > ssh ankit@devbox                                         │   █
+  █   │  > Connected. Welcome back.                                 │   █
+  █   │  > User: ANKIT KUMAR SINGH  │  Role: FULL-STACK DEVELOPER  │   █
+  █   │  > Uptime: 20yrs  │  Status: OPEN_TO_WORK [■■■■■■░░░░]    │   █
+  █   └─────────────────────────────────────────────────────────────┘   █
+  ▀████████████████████████████████████████████████████████████████████▀
 ```
 
-# ANKIT KUMAR SINGH
+<div align="center">
 
-### FULL-STACK DEVELOPER
-
-<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="70"><img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="70"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="70">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=FF5C00&center=true&vCenter=true&width=560&lines=BUILDING+SCALABLE+WEB+APPS;REACT+%7C+NODE.JS+%7C+TYPESCRIPT;DSA+%2B+SYSTEM+DESIGN;OPEN+TO+WORK+%5B%E2%96%A0%E2%96%A0%E2%96%A0%5D" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=800&color=FF5C00&center=true&vCenter=true&width=600&lines=BUILDING+THINGS+THAT+MATTER;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+TS;OPEN+TO+INTERNSHIPS+%26+FULL-TIME;LET%27S+BUILD+SOMETHING+GREAT" alt="Typing SVG" />
 </a>
 
-```
-( ) ( ) (:)  ::::::::::::::::::::::::::::::::::::  (X) (F()) ( ) ( )
-```
+<br/>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-FF5C00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/me-ankit-singh/)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF5C00)](https://your-portfolio-link.com)
-[![X](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=FF5C00)](https://x.com/Ankitsingh97923)
-[![BLOG](https://img.shields.io/badge/BLOG-FF5C00?style=for-the-badge&logo=hashnode&logoColor=000000)](https://hashnode.com/@ankit282)
+[![LinkedIn](https://img.shields.io/badge/_%20LINKEDIN-FF5C00?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://www.linkedin.com/in/me-ankit-singh/)
+[![Portfolio](https://img.shields.io/badge/_%20PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF5C00)](https://your-portfolio-link.com)
+[![X / Twitter](https://img.shields.io/badge/_%20X.COM-0D0D0D?style=for-the-badge&logo=x&logoColor=FF5C00)](https://x.com/Ankitsingh97923)
+[![Blog](https://img.shields.io/badge/_%20HASHNODE-FF5C00?style=for-the-badge&logo=hashnode&logoColor=0D0D0D)](https://hashnode.com/@ankit282)
+[![Email](https://img.shields.io/badge/_%20EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF5C00)](mailto:ankitkumarsingh0207@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF5C00&height=4&width=100%25" width="100%"/>
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF5C00&height=2&width=100%"/>
 </div>
 
 <br/>
 
-## `[ ABOUT_ME ]`
+## `// ABOUT`
 
+> I'm a Full-Stack Developer who obsesses over clean architecture, fast UIs, and code that reads like prose. I build for the web — from pixel-perfect frontends to robust, scalable backends.
+
+```yaml
+name        : Ankit Kumar Singh
+location    : India
+focus       : Full-Stack Web Development
+stack       : React · Next.js · TypeScript · Node.js
+currently   : Deepening backend architecture + DSA
+looking_for : Internships · Freelance · Full-time roles
+writing_at  : hashnode.com/@ankit282
 ```
-> SYSTEM BOOT...
-> LOADING PROFILE: Ankit Kumar Singh
-> ROLE: Full-Stack Developer
-> STATUS: [■■■■■■■■░░] Open to Work
 
-> Full-Stack Developer with a strong foundation in modern web
-> technologies, DSA, and problem solving. Focused on writing clean,
-> maintainable code and building applications that scale.
-```
-
-- `[X]` Open to **Internships, Freelance work, and Full-time roles**
-- `[X]` Built **AI*m Trainer** — AI-powered training assistant for skill improvement
-- `[X]` Built **Doggo Generator** — API-driven React project for random dog images
-- `[X]` Built **Compiler Project** — core compiler-design concepts implemented from scratch
-- `[ ]` Currently deepening **React ecosystem, backend architecture, and DSA**
-- `[ ]` Writing technical articles on **[Hashnode](https://hashnode.com/@ankit282)**
+<br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5C00&height=2&width=40%"/>
 </div>
 
 <br/>
 
-## `[ TECH_STACK ]`
+## `// PROJECTS`
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  PROJECT INDEX                                               v1.0.0  │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+### `[01]` AIm Trainer
+> AI-powered training assistant that adapts to your skill level and suggests targeted practice.  
+> `React` `AI Integration` `REST APIs`  
+> → [View Repo](#)
+
+### `[02]` Doggo Generator
+> Random dog image generator using The Dog API. Built to practice React patterns and async state.  
+> `React` `Axios` `REST APIs`  
+> → [View Repo](#)
+
+### `[03]` Compiler Project
+> Lexer → Parser → Code Gen. Core compiler stages implemented from scratch to understand how languages work under the hood.  
+> `C++` `Compiler Design` `Data Structures`  
+> → [View Repo](#)
+
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF5C00&height=2&width=100%"/>
+</div>
+
+<br/>
+
+## `// TECH STACK`
+
+<div align="center">
+
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,php,html,css&theme=dark" />
+
 <br/><br/>
+
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+
 <br/><br/>
+
+**Backend & DB**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+
 <br/><br/>
+
+**Tools**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,100:0D0D0D&height=3&width=100%25" width="100%"/>
-
-<br/>
-
-## `[ GITHUB_STATS ]`
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="300"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF5C00&text_color=ffffff" height="165" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5C00&height=2&width=40%"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF5C00&height=3&width=100%25" width="100%"/>
+## `// GITHUB STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff&ring_color=FF5C00" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF5C00&text_color=ffffff" height="170"/>
 
 <br/>
 
-## `[ PROJECTS ]`
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D0D0D&ring=FF5C00&fire=FF5C00&currStreakLabel=FF5C00&sideLabels=ffffff&dates=888888" />
 
-| FILE | DESCRIPTION |
-|---|---|
-| `AIm-Trainer/` | AI-powered training assistant for skill improvement |
-| `Doggo-Generator/` | Fun, API-driven React project for random dog images |
-| `Compiler-Project/` | Core compiler-design concepts implemented from scratch |
+</div>
 
 <br/>
 
-## `[ CONTACT ]`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF5C00&height=2&width=100%"/>
+</div>
+
+<br/>
+
+## `// CURRENTLY`
 
 ```
-> EMAIL ............ ankitkumarsingh0207@gmail.com
-> LINKEDIN ......... linkedin.com/in/me-ankit-singh
-> BLOG ............. hashnode.com/@ankit282
+┌──────────────────────────────────────────────────────────────────────┐
+│  TASK BOARD                                                          │
+│                                                                      │
+│  [■] Sharpening React patterns + custom hooks                        │
+│  [■] Building scalable backend systems with Node.js                  │
+│  [■] Grinding DSA — arrays → graphs → DP                            │
+│  [■] Writing technical posts on Hashnode                             │
+│  [ ] Land a great internship or full-time role                       │
+│  [ ] Contribute to an open source project that matters               │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## `// CONTACT`
+
+```
+> Want to collaborate, hire, or just talk tech?
+
+  MAIL    →  ankitkumarsingh0207@gmail.com
+  LINKEDIN →  linkedin.com/in/me-ankit-singh
+  X        →  x.com/Ankitsingh97923
+  BLOG     →  hashnode.com/@ankit282
 ```
 
 <br/>
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,50:1a0a00,100:0D0D0D&height=3&width=100%"/>
+
 ```
-(■) (■) :::::::::::::::::: ████████ :::::::::::::::::: (■) (■)
+  ■ — Every line of code is a decision. Make it count. — ■
 ```
 
-### `★ STAR THIS PROFILE IF YOU LIKE THE WORK ★`
-
-<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="280"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,100:0D0D0D&height=4&width=100%25" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=FF5C00&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
