@@ -1,46 +1,119 @@
-[![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f)
+<div align="center">
 
-# Ankit Kumar Singh | Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,100:0D0D0D&height=4&width=100%25" width="100%"/>
 
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/me-ankit-singh/)
-[![portfolio](https://img.shields.io/static/v1?message=Portfolio&label=&color=000000&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com)
-[![x](https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge)](https://x.com/Ankitsingh97923)
-[![blog](https://img.shields.io/static/v1?message=Blog&label=&color=2962FF&logoColor=white&style=for-the-badge)](https://hashnode.com/@ankit282)
+<br/>
 
-*Building scalable full-stack applications with React, Node.js, and a growing focus on system design and DSA*
+```
+(■) (■) :::::::::::::::::: ████████ :::::::::::::::::: (■) (■)
+```
 
-### 👨‍💻 About Me
+# ANKIT KUMAR SINGH
 
-> I'm a **Full-Stack Developer** with a strong foundation in modern web technologies and problem solving. I care about writing clean, maintainable code and understanding how things actually work — not just how to use them. Currently sharpening my DSA and system design fundamentals while building production-style applications.
+### FULL-STACK DEVELOPER
 
-- 🤝 Open to **Internships, Freelance work, and Full-time Software Engineering roles**
-- 🎯 Built **[AI*m Trainer](#)** — an AI-powered training assistant for skill improvement
-- 📱 Built **[Doggo Generator](#)** — an API-driven React project for random dog images
-- ⚙️ Built **[Compiler Project](#)** — core compiler-design concepts implemented from scratch
-- 🔭 Currently deepening knowledge of **React ecosystem, backend architecture, and DSA**
-- ✍️ Writing technical articles on **[Hashnode](https://hashnode.com/@ankit282)**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=FF5C00&center=true&vCenter=true&width=560&lines=BUILDING+SCALABLE+WEB+APPS;REACT+%7C+NODE.JS+%7C+TYPESCRIPT;DSA+%2B+SYSTEM+DESIGN;OPEN+TO+WORK+%5B%E2%96%A0%E2%96%A0%E2%96%A0%5D" alt="Typing SVG" />
+</a>
 
----
+```
+( ) ( ) (:)  ::::::::::::::::::::::::::::::::::::  (X) (F()) ( ) ( )
+```
 
-### My Tech Stack
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-FF5C00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/me-ankit-singh/)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF5C00)](https://your-portfolio-link.com)
+[![X](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=FF5C00)](https://x.com/Ankitsingh97923)
+[![BLOG](https://img.shields.io/badge/BLOG-FF5C00?style=for-the-badge&logo=hashnode&logoColor=000000)](https://hashnode.com/@ankit282)
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,php,html,css,react,nextjs,tailwind,nodejs,express,mysql,mongodb&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF5C00&height=4&width=100%25" width="100%"/>
 
----
+</div>
 
-### Tools
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bootstrap&theme=dark" />
+## `[ ABOUT_ME ]`
 
----
+```
+> SYSTEM BOOT...
+> LOADING PROFILE: Ankit Kumar Singh
+> ROLE: Full-Stack Developer
+> STATUS: [■■■■■■■■░░] Open to Work
 
-### 📊 GitHub Stats
+> Full-Stack Developer with a strong foundation in modern web
+> technologies, DSA, and problem solving. Focused on writing clean,
+> maintainable code and building applications that scale.
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&theme=dark&hide_border=true" height="165" />
+- `[X]` Open to **Internships, Freelance work, and Full-time roles**
+- `[X]` Built **AI*m Trainer** — AI-powered training assistant for skill improvement
+- `[X]` Built **Doggo Generator** — API-driven React project for random dog images
+- `[X]` Built **Compiler Project** — core compiler-design concepts implemented from scratch
+- `[ ]` Currently deepening **React ecosystem, backend architecture, and DSA**
+- `[ ]` Writing technical articles on **[Hashnode](https://hashnode.com/@ankit282)**
 
----
+<br/>
 
-📧 **Email:** ankitkumarsingh0207@gmail.com
+## `[ TECH_STACK ]`
 
-⭐ If you like my work, consider starring my repositories!
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,php,html,css&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,100:0D0D0D&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## `[ GITHUB_STATS ]`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF5C00&text_color=ffffff" height="165" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF5C00&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## `[ PROJECTS ]`
+
+| FILE | DESCRIPTION |
+|---|---|
+| `AIm-Trainer/` | AI-powered training assistant for skill improvement |
+| `Doggo-Generator/` | Fun, API-driven React project for random dog images |
+| `Compiler-Project/` | Core compiler-design concepts implemented from scratch |
+
+<br/>
+
+## `[ CONTACT ]`
+
+```
+> EMAIL ............ ankitkumarsingh0207@gmail.com
+> LINKEDIN ......... linkedin.com/in/me-ankit-singh
+> BLOG ............. hashnode.com/@ankit282
+```
+
+<br/>
+
+<div align="center">
+
+```
+(■) (■) :::::::::::::::::: ████████ :::::::::::::::::: (■) (■)
+```
+
+### `★ STAR THIS PROFILE IF YOU LIKE THE WORK ★`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5C00,100:0D0D0D&height=4&width=100%25" width="100%"/>
+
+</div>
