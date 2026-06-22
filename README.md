@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1DA1F2&height=200&section=header&text=Ankit%20Kumar%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:8A2BE2,100:1DA1F2&height=200&section=header&text=Ankit%20Kumar%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
+<table>
+<tr>
+<td width="62%" valign="middle">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Apps;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=false&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Apps+%E2%9A%A1;DSA+%2B+System+Design+Enthusiast;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-ankit-singh/)
@@ -14,12 +20,19 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkumarsingh0207@gmail.com)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ankit282)
 
-<img src="https://komarev.com/ghpvc/?username=kashyav367&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS" alt="profile views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kashyav367&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/kashyav367?style=for-the-badge&color=1DA1F2&label=FOLLOWERS" alt="followers"/>
 
-</div>
+</td>
+<td width="38%" align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="280"/>
+</td>
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
 
 ## 💼 About Me
 
@@ -39,6 +52,10 @@ const ankit = {
 - 🤝 Open to **internships, freelance work, and full-time opportunities**
 - ✍️ Writing technical blogs on **Hashnode**
 - ⚡ Fun fact: I debug faster with music on 🎧
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="500"/>
+</div>
 
 <br/>
 
@@ -131,6 +148,8 @@ I'm always open to discussing **opportunities, collaborations, or interesting te
 ### 💡 *"Turning ideas into scalable digital products."*
 
 ⭐ **If you like my work, consider starring my repositories!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-9227-4364-8fb2-eac10ae1f3ac.gif" width="420" alt="thanks for visiting" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:0077B5&height=120&section=footer" width="100%"/>
 
