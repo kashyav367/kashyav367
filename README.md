@@ -1,24 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,50:007ACC,100:1E1E1E&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A371F7,100:0D1117&height=3&width=100%"/>
 
-<br/>
+</div>
+
+<div align="center">
 
 ```
-                              ⬤
-        ╭──────────────────────────────────────────────────╮
-        │  🔴  🟡  🟢        ankit-kumar-singh — VS Code    │
-        ├──────────────────────────────────────────────────┤
-        │  File   Edit   View   Run   Terminal   Window     │
-        ╰──────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│  ●  ●  ●   ~/ankit-kumar-singh   —   about.ts   —   Editor              │
+├────────────────────────────────────────────────────────────────────────┤
+│  about.ts ×   projects.md   extensions.json   timeline.git   contact.sh │
+├────────────────────────────────────────────────────────────────────────┤
+│  src › profile › about.ts                                               │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="230" valign="top">
+<td width="26%" valign="top">
 
+**EXPLORER**
 ```
 ▾ ANKIT-KUMAR-SINGH
   ▾ src
@@ -32,49 +36,40 @@
         oidc-auth.ts
         trello-clone.ts
         poll-app.ts
-    ▾ stack
-        frontend.json
-        backend.json
-        auth-realtime.json
-        tools.json
-    ▾ stats
-        github.stats
-        streak.stats
-    ▾ tasks
-        board.todo
+    ▾ extensions
+        stack.json
+    ▾ timeline
+        commits.git
     contact.sh
   package.json
   README.md
 ```
 
 </td>
-<td valign="top">
+<td width="74%" valign="top">
 
 ```typescript
-// src/profile/about.ts
-
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  focus: string;
-  status: string;
-}
-
-const ankit: Developer = {
-  name: "Ankit Kumar Singh",
-  role: "Full-Stack Developer",
-  location: "India 🇮🇳",
-  focus: "Building things that matter",
-  status: "OPEN_TO_WORK ■■■■■■░░░░",
-};
-
-/**
- * Full-Stack Developer obsessed with
- * clean architecture, secure auth flows,
- * and UIs that feel alive.
- */
-export default ankit;
+ 1  interface Developer {
+ 2    name: string;
+ 3    role: string;
+ 4    location: string;
+ 5    focus: string;
+ 6    status: OpenToWork;
+ 7  }
+ 8
+ 9  const ankit: Developer = {
+10    name: "Ankit Kumar Singh",
+11    role: "Full-Stack Developer",
+12    location: "India",
+13    focus: "clean architecture, secure auth, alive UIs",
+14    status: "OPEN — Internship · Freelance · Full-time",
+15  };
+16
+17  /**
+18   * Full-stack developer who cares about the
+19   * "why" behind the code, not just the "what".
+20   */
+21  export default ankit;
 ```
 
 </td>
@@ -83,169 +78,133 @@ export default ankit;
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=007ACC&center=true&vCenter=true&width=640&lines=BUILDING+THINGS+THAT+MATTER;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+TS;OIDC+%7C+WEBSOCKETS+%7C+KANBAN;OPEN+TO+INTERNSHIPS+%26+FULL-TIME" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=A371F7&center=true&vCenter=true&width=650&lines=BUILDING+THINGS+THAT+MATTER;REACT+%C2%B7+NEXT.JS+%C2%B7+NODE.JS+%C2%B7+TYPESCRIPT;OIDC+%C2%B7+WEBSOCKETS+%C2%B7+KANBAN+SYSTEMS;OPEN+TO+INTERNSHIPS+%26+FULL-TIME" alt="typing" />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-ankit-singh/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1E1E1E?style=for-the-badge&logo=vercel&logoColor=007ACC)](https://your-portfolio-link.com)
-[![X](https://img.shields.io/badge/X.COM-1E1E1E?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ankitsingh97923)
-[![Blog](https://img.shields.io/badge/HASHNODE-007ACC?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ankit282)
-[![Email](https://img.shields.io/badge/EMAIL-1E1E1E?style=for-the-badge&logo=gmail&logoColor=007ACC)](mailto:ankitkumarsingh0207@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-A371F7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-ankit-singh/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=A371F7)](https://your-portfolio-link.com)
+[![X](https://img.shields.io/badge/X.COM-0D1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Ankitsingh97923)
+[![Hashnode](https://img.shields.io/badge/HASHNODE-A371F7?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ankit282)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=A371F7)](mailto:ankitkumarsingh0207@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,100:007ACC&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:A371F7&height=1&width=100%"/>
 
-## `src/projects/` — PROJECT FILES
-
-```
-╭─ aim-trainer.ts ────────────────────────────────────────────────────╮
-```
-
-```typescript
-// [01] 🤖 AIm Trainer
-// AI-powered training assistant that adapts to skill level
-// and targets weak spots with precision.
-stack: ["React", "AI Integration", "REST APIs"]
-repo:  "→ View Repo"
-```
+### `PANEL` — SOURCE CONTROL · `timeline/commits.git`
 
 ```
-╭─ doggo-gen.ts ───────────────────────────────────────────────────────╮
+*  a1b2c3d  (HEAD -> main)  feat: open to internship & full-time roles
+*  9f8e7d6  feat: shipped real-time poll app with Socket.IO
+*  6c5b4a3  feat: built OIDC/OAuth2 auth flow from scratch
+*  3d2e1f0  feat: implemented drag-and-drop Trello-style board
+*  8a7b6c5  fix: refactored compiler project (lexer → parser → codegen)
+*  1e2d3c4  feat: shipped AIm Trainer + Doggo image generator
+*  0a1b2c3  chore: started the full-stack developer journey
 ```
 
-```typescript
-// [02] 🐕 Doggo Generator
-// Random dog image generator — clean async state
-// and API consumption patterns in React.
-stack: ["React", "Axios", "REST APIs"]
-repo:  "→ View Repo"
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:A371F7&height=1&width=100%"/>
 
-```
-╭─ compiler.cpp ──────────────────────────────────────────────────────╮
-```
+### `PANEL` — PROJECTS · `projects.md`
 
-```cpp
-// [03] ⚙️ Compiler Project
-// Lexer -> Parser -> Code Gen, built from scratch.
-// CS fundamentals implemented end-to-end in C++.
-std::vector<std::string> stack = {"C++", "Compiler Design", "Data Structures"};
-```
+| File | Description | Stack |
+|---|---|---|
+| `aim-trainer.ts` 🤖 | AI-powered training assistant that adapts to skill level and targets weak spots | `React` `AI Integration` `REST APIs` |
+| `doggo-gen.ts` 🐕 | Random dog image generator built around clean async state and API consumption | `React` `Axios` `REST APIs` |
+| `compiler.cpp` ⚙️ | Lexer → Parser → Code Gen, a compiler built from scratch to master CS fundamentals | `C++` `Compiler Design` `Data Structures` |
+| `oidc-auth.ts` 🔐 | Full OpenID Connect flow — access & refresh tokens, scopes, secure sessions | `OIDC` `OAuth2` `JWT` `Node.js` `Express` |
+| `trello-clone.ts` 📋 | Drag-and-drop kanban board with real-time card movement and persistent state | `React` `DnD Kit` `Node.js` `MongoDB` |
+| `poll-app.ts` 🗳️ | Real-time polling app with live vote counts and instant chart updates | `React` `Socket.IO` `Express` `Chart.js` |
 
-```
-╭─ oidc-auth.ts ──────────────────────────────────────────────────────╮
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:A371F7&height=1&width=100%"/>
 
-```typescript
-// [04] 🔐 OIDC Auth
-// Full OpenID Connect flow — access tokens, refresh tokens,
-// scopes, and secure session management end-to-end.
-stack: ["OIDC", "OAuth2", "JWT", "Node.js", "Express"]
-repo:  "→ View Repo"
-```
+### `PANEL` — EXTENSIONS · `extensions/stack.json`
 
-```
-╭─ trello-clone.ts ───────────────────────────────────────────────────╮
-```
+**Languages**
 
-```typescript
-// [05] 📋 Trello Clone
-// Drag-and-drop kanban board with real-time card movement,
-// multi-list management, and persistent board state.
-stack: ["React", "DnD Kit", "Node.js", "MongoDB"]
-repo:  "→ View Repo"
-```
+| Extension | Publisher | Rating | Installs |
+|---|---|:---:|:---:|
+| C++ | ISO | ★★★★★ | 41M |
+| JavaScript | ECMA | ★★★★★ | 68M |
+| TypeScript | Microsoft | ★★★★★ | 39M |
+| Python | PSF | ★★★★★ | 74M |
 
-```
-╭─ poll-app.ts ───────────────────────────────────────────────────────╮
-```
+**Frontend**
 
-```typescript
-// [06] 🗳️ Poll App
-// Real-time polling with live vote counts, shareable links,
-// and instant chart results — no refresh needed.
-stack: ["React", "Socket.IO", "Express", "Chart.js"]
-repo:  "→ View Repo"
-```
+| Extension | Publisher | Rating | Installs |
+|---|---|:---:|:---:|
+| React | Meta | ★★★★★ | 44M |
+| Next.js | Vercel | ★★★★★ | 21M |
+| Tailwind CSS | Tailwind Labs | ★★★★★ | 28M |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,100:007ACC&height=2&width=100%"/>
+**Backend & Data**
 
-## `src/stack/` — DEPENDENCIES
+| Extension | Publisher | Rating | Installs |
+|---|---|:---:|:---:|
+| Node.js | OpenJS Foundation | ★★★★★ | 52M |
+| Express | OpenJS Foundation | ★★★★☆ | 31M |
+| MongoDB | MongoDB Inc. | ★★★★☆ | 18M |
+| MySQL | Oracle | ★★★★☆ | 22M |
 
-```
-╭─ package.json ──────────────────────────────────────────────────────╮
-```
+**Auth & Realtime**
+
+| Extension | Publisher | Rating | Installs |
+|---|---|:---:|:---:|
+| OIDC / OAuth2 | OpenID Foundation | ★★★★★ | 9M |
+| JWT | Auth0 | ★★★★☆ | 15M |
+| Socket.IO | Socket.IO | ★★★★★ | 12M |
+
+**Tooling**
 
 <div align="center">
-
-**"languages"**
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,php,html,css&theme=dark" />
-
-**"frontend"**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-
-**"backend & databases"**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
-
-**"auth & realtime"**
-
-![OIDC](https://img.shields.io/badge/OIDC-1E1E1E?style=flat-square&logoColor=007ACC)
-![OAuth2](https://img.shields.io/badge/OAuth2-007ACC?style=flat-square&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-1E1E1E?style=flat-square&logo=jsonwebtokens&logoColor=007ACC)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-007ACC?style=flat-square&logo=socketdotio&logoColor=white)
-
-**"devDependencies"**
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,100:007ACC&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:A371F7&height=1&width=100%"/>
 
-## `src/stats/` — GITHUB.STATS
+### `PANEL` — OUTPUT · `stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1E1E1E&title_color=007ACC&icon_color=007ACC&text_color=ffffff&ring_color=007ACC" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=007ACC&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=c9d1d9&ring_color=A371F7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=1E1E1E&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&sideLabels=ffffff&dates=888888"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=c9d1d9&dates=8b949e"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyav367&bg_color=1E1E1E&color=007ACC&line=007ACC&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyav367&bg_color=0D1117&color=A371F7&line=A371F7&point=c9d1d9&area=true&hide_border=true"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,100:007ACC&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:A371F7&height=1&width=100%"/>
 
-## `src/tasks/` — BOARD.TODO
+### `PANEL` — PROBLEMS · `board.todo`
 
 ```diff
-+ [x] Sharpening React patterns + custom hooks
-+ [x] Building scalable backend systems with Node.js
-+ [x] Implementing OIDC / OAuth2 auth patterns
-+ [x] Grinding DSA — arrays → graphs → DP
-+ [x] Writing technical posts on Hashnode
-- [ ] Land a great internship or full-time role
-- [ ] Contribute to a meaningful open source project
++ Resolved   Sharpened React patterns and custom hooks
++ Resolved   Built scalable backend systems with Node.js
++ Resolved   Implemented OIDC / OAuth2 auth patterns
++ Resolved   DSA grind — arrays → graphs → dynamic programming
++ Resolved   Writing technical breakdowns on Hashnode
+- Pending    Land a great internship or full-time role
+- Pending    Contribute to a meaningful open-source project
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,100:007ACC&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:A371F7&height=1&width=100%"/>
 
 <div align="center">
 
 ```
-                              ⬤
-        ╭──────────────────────────────────────────────────╮
-        │  🔴  🟡  🟢              zsh — contact.sh         │
-        ╰──────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│  ●  ●  ●   zsh   —   contact.sh                                         │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ```bash
-ankit@macbook ~ % cat contact.sh
+ankit@dev ~ % cat contact.sh
 
 #!/bin/bash
-echo "Want to collaborate, hire, or just talk tech?"
+echo "Open to collaborate, hire, or just talk tech."
 
 MAIL="ankitkumarsingh0207@gmail.com"
 LINKEDIN="linkedin.com/in/me-ankit-singh"
@@ -257,32 +216,21 @@ echo "→ $LINKEDIN"
 echo "→ $X"
 echo "→ $BLOG"
 
-ankit@macbook ~ % ▊
+ankit@dev ~ % ▊
 ```
 
 <div align="center">
 
 ```
-        ╰──────────────────────────────────────────────────╯
-         ╲____________________________________________╱
-        ╱░░░░░░░░░░░░░░░░░░░░░●░░░░░░░░░░░░░░░░░░░░░░░░╲
-       ╱══════════════════════════════════════════════╲
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,50:007ACC,100:1E1E1E&height=3&width=100%"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
-
-```
-✓ 0 Problems   main*   UTF-8   LF   TypeScript   Ln 42, Col 7   Prettier
+● 0 Problems   main*   UTF-8   LF   TypeScript   Spaces: 2   Prettier   Ln 21, Col 1
 ```
 
 ```
-■ — EVERY LINE OF CODE IS A DECISION. MAKE IT COUNT. — ■
+▍ EVERY LINE OF CODE IS A DECISION. MAKE IT COUNT. ▍
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=007ACC&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=A371F7&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A371F7,100:0D1117&height=3&width=100%"/>
