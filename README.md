@@ -1,24 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:7C6FFE,100:0D0D0D&height=3&width=100%"/>
 
 <br/>
 
 ```
-╭──────────────────────────────────────────────────────────────────────╮
-│  ●  ●  ●   ankit-kumar-singh — Visual Studio Code                     │
-├──────────────────────────────────────────────────────────────────────┤
-│  about.ts ×  skills.ts   experience.git   projects.md   contact.sh    │
-├──────────────────────────────────────────────────────────────────────┤
-│  src › profile › about.ts                                             │
-╰──────────────────────────────────────────────────────────────────────╯
+                                    ⬤
+        ╭──────────────────────────────────────────────────────╮
+        │  🔴  🟡  🟢        ankit-kumar-singh — cursor         │
+        ├──────────────────────────────────────────────────────┤
+        │  about.ts ×   skills.ts   experience.git   contact.sh │
+        ╰──────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="24%" valign="top">
+<td width="22%" valign="top">
 
 **EXPLORER**
 ```
@@ -41,7 +40,7 @@
 ```
 
 </td>
-<td width="76%" valign="top">
+<td width="53%" valign="top">
 
 ```typescript
  1  interface Developer {
@@ -66,20 +65,41 @@
 ```
 
 </td>
+<td width="25%" valign="top">
+
+**✦ ASK — ⌘K**
+```
+> tell me about ankit
+
+Full-stack dev who ships
+end-to-end: secure auth,
+real-time systems, clean
+React architecture.
+
+Strong in React, Next.js,
+Node.js, TypeScript.
+
+Currently: DSA grind +
+writing on Hashnode.
+
+Status: open to work ●
+```
+
+</td>
 </tr>
 </table>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/me-ankit-singh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF)](https://your-portfolio-link.com)
-[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=58A6FF)](https://x.com/Ankitsingh97923)
-[![Hashnode](https://img.shields.io/badge/Hashnode-0D1117?style=flat-square&logo=hashnode&logoColor=58A6FF)](https://hashnode.com/@ankit282)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:ankitkumarsingh0207@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=7C6FFE)](https://www.linkedin.com/in/me-ankit-singh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=flat-square&logo=vercel&logoColor=7C6FFE)](https://your-portfolio-link.com)
+[![X](https://img.shields.io/badge/X-0D0D0D?style=flat-square&logo=x&logoColor=7C6FFE)](https://x.com/Ankitsingh97923)
+[![Hashnode](https://img.shields.io/badge/Hashnode-0D0D0D?style=flat-square&logo=hashnode&logoColor=7C6FFE)](https://hashnode.com/@ankit282)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=7C6FFE)](mailto:ankitkumarsingh0207@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
 
 ### `skills.ts`
 
@@ -106,10 +126,10 @@ Auth & Realtime
 ```
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux&theme=dark" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
 
 ### `timeline/experience.git`
 
@@ -122,9 +142,9 @@ Auth & Realtime
 *  1e2d3c4  feat: AIm Trainer + Doggo image generator
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
 
-### `projects.md`
+### `projects/`
 
 | Project | Description | Stack |
 |---|---|---|
@@ -135,33 +155,34 @@ Auth & Realtime
 | **AIm Trainer** | AI-powered training assistant that adapts to skill level | `React` `AI Integration` `REST APIs` |
 | **Doggo Generator** | Random dog image generator with clean async API consumption | `React` `Axios` `REST APIs` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
 
 ### `OUTPUT` — GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=7C6FFE&icon_color=7C6FFE&text_color=e6e6e6&ring_color=7C6FFE" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=7C6FFE&text_color=e6e6e6" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D0D0D&ring=7C6FFE&fire=7C6FFE&currStreakLabel=7C6FFE&sideLabels=e6e6e6&dates=8b949e"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
 
 <div align="center">
 
 ```
-╭──────────────────────────────────────────────────────────────────────╮
-│  ●  ●  ●   zsh — contact.sh                                           │
-╰──────────────────────────────────────────────────────────────────────╯
+                                    ⬤
+        ╭──────────────────────────────────────────────────────╮
+        │  🔴  🟡  🟢              zsh — contact.sh              │
+        ╰──────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ```bash
-ankit@dev ~ % cat contact.sh
+ankit@macbook ~ % cat contact.sh
 
 echo "Open to internships, full-time roles, and collaboration."
 
@@ -170,17 +191,24 @@ LINKEDIN="linkedin.com/in/me-ankit-singh"
 X="x.com/Ankitsingh97923"
 BLOG="hashnode.com/@ankit282"
 
-ankit@dev ~ % ▊
+ankit@macbook ~ % ▊
 ```
 
 <div align="center">
 
 ```
-● 0 Problems   main*   UTF-8   LF   TypeScript   Spaces: 2   Ln 19, Col 1
+        ╰──────────────────────────────────────────────────────╯
+         ╲──────────────────────────────────────────────────╱
+        ╱░░░░░░░░░░░░░░░░░░░░░░●░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╲
+       ╱═════════════════════════════════════════════════════╲
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=58A6FF&style=flat-square&label=Profile+Views)
+```
+● 0 issues   main*   UTF-8   LF   TypeScript   Spaces: 2
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=3&width=100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=7C6FFE&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:7C6FFE,100:0D0D0D&height=3&width=100%"/>
 
 </div>
