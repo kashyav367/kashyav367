@@ -1,214 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:7C6FFE,100:0D0D0D&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A120B,50:D4A24E,100:1A120B&height=3&width=100%"/>
 
 <br/>
 
-```
-                                    ⬤
-        ╭──────────────────────────────────────────────────────╮
-        │  🔴  🟡  🟢        ankit-kumar-singh — cursor         │
-        ├──────────────────────────────────────────────────────┤
-        │  about.ts ×   skills.ts   experience.git   contact.sh │
-        ╰──────────────────────────────────────────────────────╯
-```
+# 📖 The Making of a Developer
+### *a story, told in commits*
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1200&color=D4A24E&center=true&vCenter=true&width=650&lines=Ankit+Kumar+Singh;Full-Stack+Developer;Chapter+status%3A+ongoing..." alt="typing" />
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="22%" valign="top">
+<br/>
 
-**EXPLORER**
-```
-▾ ANKIT-KUMAR-SINGH
-  ▾ src
-    ▾ profile
-        about.ts
-        skills.ts
-    ▾ projects
-        oidc-auth.ts
-        trello-clone.ts
-        poll-app.ts
-        compiler.cpp
-        aim-trainer.ts
-        doggo-gen.ts
-    ▾ timeline
-        experience.git
-    contact.sh
-  README.md
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A120B,100:D4A24E&height=1&width=100%"/>
 
-</td>
-<td width="53%" valign="top">
+## Chapter I — Where It Began
 
-```typescript
- 1  interface Developer {
- 2    name: string;
- 3    role: string;
- 4    focus: string[];
- 5    status: string;
- 6  }
- 7
- 8  const ankit: Developer = {
- 9    name: "Ankit Kumar Singh",
-10    role: "Full-Stack Developer",
-11    focus: [
-12      "clean architecture",
-13      "secure auth (OIDC/OAuth2)",
-14      "real-time systems",
-15    ],
-16    status: "open to internships & full-time roles",
-17  };
-18
-19  export default ankit;
-```
+Every developer's story starts the same way: with a question that wouldn't leave them alone. For **Ankit Kumar Singh**, it was *"how does this actually work?"* — asked about a login page, a moving webpage, a system that just... responded.
 
-</td>
-<td width="25%" valign="top">
+That question turned into curiosity. Curiosity turned into late nights with a code editor open and a dozen browser tabs of documentation. And somewhere along the way, curiosity turned into a craft.
 
-**✦ ASK — ⌘K**
-```
-> tell me about ankit
+Today, Ankit builds full-stack products — the kind that need to be fast, secure, and quietly reliable. Not flashy for the sake of it. Just *solid*.
 
-Full-stack dev who ships
-end-to-end: secure auth,
-real-time systems, clean
-React architecture.
+<br/>
 
-Strong in React, Next.js,
-Node.js, TypeScript.
+## Chapter II — The Toolkit
 
-Currently: DSA grind +
-writing on Hashnode.
-
-Status: open to work ●
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=7C6FFE)](https://www.linkedin.com/in/me-ankit-singh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=flat-square&logo=vercel&logoColor=7C6FFE)](https://your-portfolio-link.com)
-[![X](https://img.shields.io/badge/X-0D0D0D?style=flat-square&logo=x&logoColor=7C6FFE)](https://x.com/Ankitsingh97923)
-[![Hashnode](https://img.shields.io/badge/Hashnode-0D0D0D?style=flat-square&logo=hashnode&logoColor=7C6FFE)](https://hashnode.com/@ankit282)
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=7C6FFE)](mailto:ankitkumarsingh0207@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
-
-### `skills.ts`
+Every builder collects tools along the way. Here's what's in the bag:
 
 ```
-Languages
-  C++          █████████████░░░░░░░  65%
-  JavaScript   █████████████████░░░  85%
-  TypeScript   ████████████████░░░░  80%
-  Python       ████████████░░░░░░░░  60%
-
-Frontend
-  React        █████████████████░░░  90%
-  Next.js      ████████████████░░░░  80%
-  Tailwind CSS ████████████████░░░░  80%
-
-Backend
-  Node.js      █████████████████░░░  85%
-  Express      ███████████████░░░░░  75%
-  MongoDB      ██████████████░░░░░░  70%
-
-Auth & Realtime
-  OIDC / OAuth2███████████████░░░░░  75%
-  Socket.IO    ██████████████░░░░░░  70%
+Languages        C++ · JavaScript · TypeScript · Python
+Frontend         React · Next.js · Tailwind CSS
+Backend          Node.js · Express · MongoDB · MySQL
+Auth & Realtime  OIDC · OAuth2 · JWT · Socket.IO
+Tools            Git · GitHub · Docker · Linux
 ```
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux&theme=dark" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
+Some tools he reaches for daily. Others, like a well-oiled OAuth2 flow, he pulls out when the stakes are higher — when *security* isn't optional.
 
-### `timeline/experience.git`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A120B,100:D4A24E&height=1&width=100%"/>
+
+## Chapter III — The Builds
+
+A few chapters are worth telling in full.
+
+**🔐 The one about trust.**
+Every app needs to know *who* you are without ever being careless with that knowledge. So Ankit built a complete **OIDC / OAuth2 authentication flow** from the ground up — access tokens, refresh tokens, scopes, secure sessions. No shortcuts.
+
+**📋 The one about order.**
+Chaos needed a home. He built a **Trello-style kanban board** — drag, drop, watch the card move in real time for everyone watching. Small interaction, deceptively hard to get right.
+
+**🗳️ The one about the crowd.**
+What happens when hundreds of people vote at once and everyone needs to see it *live*? A **real-time polling app**, powered by Socket.IO, answered that — votes appearing on the chart before you can blink.
+
+**⚙️ The one about first principles.**
+Before frameworks, before shortcuts — he wrote a **compiler from scratch**. Lexer, parser, code generation. The unglamorous chapter that taught him how everything else actually works underneath.
+
+**🤖 & 🐕 The early sketches.**
+An AI training assistant that adapts to skill level. A dog-image generator that taught clean API habits. Small stories, but every author needs early drafts.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A120B,100:D4A24E&height=1&width=100%"/>
+
+## Chapter IV — The Chronicle
 
 ```
-*  a1b2c3d  (HEAD -> main)  open to internship & full-time roles
-*  9f8e7d6  feat: real-time poll app — Socket.IO, live vote counts
-*  6c5b4a3  feat: full OIDC/OAuth2 auth flow from scratch
-*  3d2e1f0  feat: Trello-style kanban board — drag-and-drop, live sync
-*  8a7b6c5  feat: compiler built from scratch — lexer → parser → codegen
-*  1e2d3c4  feat: AIm Trainer + Doggo image generator
+*  open to internship & full-time roles
+*  shipped a real-time poll app — Socket.IO, live vote counts
+*  shipped a full OIDC/OAuth2 auth flow
+*  shipped a Trello-style kanban board
+*  shipped a compiler, built from first principles
+*  shipped an AI trainer and an image generator
+*  the story begins
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A120B,100:D4A24E&height=1&width=100%"/>
 
-### `projects/`
-
-| Project | Description | Stack |
-|---|---|---|
-| **OIDC Auth** | Full OpenID Connect flow with access/refresh tokens and secure session management | `OIDC` `OAuth2` `JWT` `Node.js` `Express` |
-| **Trello Clone** | Drag-and-drop kanban board with real-time card movement and persistent state | `React` `DnD Kit` `Node.js` `MongoDB` |
-| **Poll App** | Real-time polling with live vote counts and instant chart updates | `React` `Socket.IO` `Express` `Chart.js` |
-| **Compiler Project** | Lexer → parser → code generation, built from scratch | `C++` `Compiler Design` |
-| **AIm Trainer** | AI-powered training assistant that adapts to skill level | `React` `AI Integration` `REST APIs` |
-| **Doggo Generator** | Random dog image generator with clean async API consumption | `React` `Axios` `REST APIs` |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
-
-### `OUTPUT` — GitHub Stats
+## Chapter V — By the Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=7C6FFE&icon_color=7C6FFE&text_color=e6e6e6&ring_color=7C6FFE" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=7C6FFE&text_color=e6e6e6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=1A120B&title_color=D4A24E&icon_color=D4A24E&text_color=e8dcc8&ring_color=D4A24E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=1A120B&title_color=D4A24E&text_color=e8dcc8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D0D0D&ring=7C6FFE&fire=7C6FFE&currStreakLabel=7C6FFE&sideLabels=e6e6e6&dates=8b949e"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=1A120B&ring=D4A24E&fire=D4A24E&currStreakLabel=D4A24E&sideLabels=e8dcc8&dates=8b7d6b"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7C6FFE&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A120B,100:D4A24E&height=1&width=100%"/>
+
+## Chapter VI — The Next Chapter (Unwritten)
+
+Every good story leaves room for what's next. Right now, that space is open — for an **internship**, a **full-time role**, or just a good conversation about what to build next.
+
+If you're reading this and think there's a chapter worth writing together:
 
 <div align="center">
 
-```
-                                    ⬤
-        ╭──────────────────────────────────────────────────────╮
-        │  🔴  🟡  🟢              zsh — contact.sh              │
-        ╰──────────────────────────────────────────────────────╯
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A120B?style=flat-square&logo=linkedin&logoColor=D4A24E)](https://www.linkedin.com/in/me-ankit-singh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A120B?style=flat-square&logo=vercel&logoColor=D4A24E)](https://your-portfolio-link.com)
+[![X](https://img.shields.io/badge/X-1A120B?style=flat-square&logo=x&logoColor=D4A24E)](https://x.com/Ankitsingh97923)
+[![Hashnode](https://img.shields.io/badge/Hashnode-1A120B?style=flat-square&logo=hashnode&logoColor=D4A24E)](https://hashnode.com/@ankit282)
+[![Email](https://img.shields.io/badge/Email-1A120B?style=flat-square&logo=gmail&logoColor=D4A24E)](mailto:ankitkumarsingh0207@gmail.com)
 
-</div>
+<br/>
 
-```bash
-ankit@macbook ~ % cat contact.sh
+*"Every line of code is a page. Make it worth reading."*
 
-echo "Open to internships, full-time roles, and collaboration."
+![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=D4A24E&style=flat-square&label=Readers+So+Far)
 
-MAIL="ankitkumarsingh0207@gmail.com"
-LINKEDIN="linkedin.com/in/me-ankit-singh"
-X="x.com/Ankitsingh97923"
-BLOG="hashnode.com/@ankit282"
-
-ankit@macbook ~ % ▊
-```
-
-<div align="center">
-
-```
-        ╰──────────────────────────────────────────────────────╯
-         ╲──────────────────────────────────────────────────╱
-        ╱░░░░░░░░░░░░░░░░░░░░░░●░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╲
-       ╱═════════════════════════════════════════════════════╲
-```
-
-```
-● 0 issues   main*   UTF-8   LF   TypeScript   Spaces: 2
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=7C6FFE&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:7C6FFE,100:0D0D0D&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A120B,50:D4A24E,100:1A120B&height=3&width=100%"/>
 
 </div>
