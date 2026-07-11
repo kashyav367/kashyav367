@@ -5,24 +5,71 @@
 <br/>
 
 ```
-$ whoami
-> ankit-kumar-singh — full-stack developer
-
-$ npm run build
-> compiling profile...
-> build successful ✓  ready in 0.4s
+╭──────────────────────────────────────────────────────────────────────╮
+│  ●  ●  ●   ankit-kumar-singh — Visual Studio Code                     │
+├──────────────────────────────────────────────────────────────────────┤
+│  about.ts ×  skills.ts   experience.git   projects.md   contact.sh    │
+├──────────────────────────────────────────────────────────────────────┤
+│  src › profile › about.ts                                             │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="24%" valign="top">
+
+**EXPLORER**
+```
+▾ ANKIT-KUMAR-SINGH
+  ▾ src
+    ▾ profile
+        about.ts
+        skills.ts
+    ▾ projects
+        oidc-auth.ts
+        trello-clone.ts
+        poll-app.ts
+        compiler.cpp
+        aim-trainer.ts
+        doggo-gen.ts
+    ▾ timeline
+        experience.git
+    contact.sh
+  README.md
+```
+
+</td>
+<td width="76%" valign="top">
+
+```typescript
+ 1  interface Developer {
+ 2    name: string;
+ 3    role: string;
+ 4    focus: string[];
+ 5    status: string;
+ 6  }
+ 7
+ 8  const ankit: Developer = {
+ 9    name: "Ankit Kumar Singh",
+10    role: "Full-Stack Developer",
+11    focus: [
+12      "clean architecture",
+13      "secure auth (OIDC/OAuth2)",
+14      "real-time systems",
+15    ],
+16    status: "open to internships & full-time roles",
+17  };
+18
+19  export default ankit;
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-# Ankit Kumar Singh
-### Full-Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=REACT+%C2%B7+NEXT.JS+%C2%B7+NODE.JS+%C2%B7+TYPESCRIPT;OIDC+%C2%B7+OAUTH2+%C2%B7+JWT+%C2%B7+WEBSOCKETS;BUILDING+CLEAN%2C+SECURE%2C+REAL-TIME+SYSTEMS;OPEN+TO+INTERNSHIPS+%26+FULL-TIME+ROLES" alt="typing" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/me-ankit-singh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF)](https://your-portfolio-link.com)
@@ -34,23 +81,7 @@ $ npm run build
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
-## About
-
-```typescript
-const ankit = {
-  role: "Full-Stack Developer",
-  location: "India",
-  focus: ["clean architecture", "secure auth", "real-time systems"],
-  currentlyLearning: "advanced DSA — graphs & dynamic programming",
-  status: "open to internships & full-time roles",
-};
-```
-
-Full-stack developer who builds products end to end — from secure authentication systems to real-time interfaces. Strong interest in **OIDC/OAuth2 auth flows**, **WebSockets**, and clean, scalable React architecture. Writes technical breakdowns of what I learn on Hashnode.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
-
-## Skills
+### `skills.ts`
 
 ```
 Languages
@@ -68,11 +99,9 @@ Backend
   Node.js      █████████████████░░░  85%
   Express      ███████████████░░░░░  75%
   MongoDB      ██████████████░░░░░░  70%
-  MySQL        ██████████████░░░░░░  70%
 
 Auth & Realtime
   OIDC / OAuth2███████████████░░░░░  75%
-  JWT          ███████████████░░░░░  75%
   Socket.IO    ██████████████░░░░░░  70%
 ```
 
@@ -82,20 +111,20 @@ Auth & Realtime
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
-## Experience
+### `timeline/experience.git`
 
 ```
-* open to internship & full-time roles
-* built a real-time polling app — Socket.IO, live vote counts, instant charts
-* implemented a full OIDC/OAuth2 auth flow — access tokens, refresh tokens, scopes
-* built a Trello-style kanban board — drag-and-drop, real-time card sync
-* built a compiler from scratch — lexer, parser, code generation, in C++
-* shipped an AI training assistant and a REST-API-driven image generator
+*  a1b2c3d  (HEAD -> main)  open to internship & full-time roles
+*  9f8e7d6  feat: real-time poll app — Socket.IO, live vote counts
+*  6c5b4a3  feat: full OIDC/OAuth2 auth flow from scratch
+*  3d2e1f0  feat: Trello-style kanban board — drag-and-drop, live sync
+*  8a7b6c5  feat: compiler built from scratch — lexer → parser → codegen
+*  1e2d3c4  feat: AIm Trainer + Doggo image generator
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
-## Projects
+### `projects.md`
 
 | Project | Description | Stack |
 |---|---|---|
@@ -108,7 +137,7 @@ Auth & Realtime
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
-## GitHub Stats
+### `OUTPUT` — GitHub Stats
 
 <div align="center">
 
@@ -121,10 +150,18 @@ Auth & Realtime
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
-## Contact
+<div align="center">
+
+```
+╭──────────────────────────────────────────────────────────────────────╮
+│  ●  ●  ●   zsh — contact.sh                                           │
+╰──────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
 
 ```bash
-$ cat contact.sh
+ankit@dev ~ % cat contact.sh
 
 echo "Open to internships, full-time roles, and collaboration."
 
@@ -132,11 +169,15 @@ MAIL="ankitkumarsingh0207@gmail.com"
 LINKEDIN="linkedin.com/in/me-ankit-singh"
 X="x.com/Ankitsingh97923"
 BLOG="hashnode.com/@ankit282"
+
+ankit@dev ~ % ▊
 ```
 
 <div align="center">
 
-<br/>
+```
+● 0 Problems   main*   UTF-8   LF   TypeScript   Spaces: 2   Ln 19, Col 1
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=58A6FF&style=flat-square&label=Profile+Views)
 
