@@ -5,20 +5,24 @@
 <br/>
 
 ```
-●  ●  ●   about.ts
+$ whoami
+> ankit-kumar-singh — full-stack developer
+
+$ npm run build
+> compiling profile...
+> build successful ✓  ready in 0.4s
 ```
 
-```typescript
-const ankit = {
-  name: "Ankit Kumar Singh",
-  role: "Full-Stack Developer",
-  stack: ["React", "Next.js", "Node.js", "TypeScript"],
-  focus: "clean architecture · secure auth · real-time systems",
-  status: "open to internships & full-time roles",
-};
-```
+</div>
 
 <br/>
+
+<div align="center">
+
+# Ankit Kumar Singh
+### Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=REACT+%C2%B7+NEXT.JS+%C2%B7+NODE.JS+%C2%B7+TYPESCRIPT;OIDC+%C2%B7+OAUTH2+%C2%B7+JWT+%C2%B7+WEBSOCKETS;BUILDING+CLEAN%2C+SECURE%2C+REAL-TIME+SYSTEMS;OPEN+TO+INTERNSHIPS+%26+FULL-TIME+ROLES" alt="typing" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/me-ankit-singh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF)](https://your-portfolio-link.com)
@@ -28,40 +32,55 @@ const ankit = {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
 ## About
 
-Full-stack developer focused on building reliable, well-architected products end to end — from secure authentication systems to real-time interfaces. Comfortable across the stack, with particular interest in **OIDC/OAuth2 auth flows**, **WebSockets**, and clean React architecture. Currently sharpening data structures & algorithms and writing technical breakdowns on Hashnode.
+```typescript
+const ankit = {
+  role: "Full-Stack Developer",
+  location: "India",
+  focus: ["clean architecture", "secure auth", "real-time systems"],
+  currentlyLearning: "advanced DSA — graphs & dynamic programming",
+  status: "open to internships & full-time roles",
+};
+```
 
-<br/>
+Full-stack developer who builds products end to end — from secure authentication systems to real-time interfaces. Strong interest in **OIDC/OAuth2 auth flows**, **WebSockets**, and clean, scalable React architecture. Writes technical breakdowns of what I learn on Hashnode.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
 ## Skills
 
-**Languages**
+```
+Languages
+  C++          █████████████░░░░░░░  65%
+  JavaScript   █████████████████░░░  85%
+  TypeScript   ████████████████░░░░  80%
+  Python       ████████████░░░░░░░░  60%
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark" />
+Frontend
+  React        █████████████████░░░  90%
+  Next.js      ████████████████░░░░  80%
+  Tailwind CSS ████████████████░░░░  80%
 
-**Frontend**
+Backend
+  Node.js      █████████████████░░░  85%
+  Express      ███████████████░░░░░  75%
+  MongoDB      ██████████████░░░░░░  70%
+  MySQL        ██████████████░░░░░░  70%
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+Auth & Realtime
+  OIDC / OAuth2███████████████░░░░░  75%
+  JWT          ███████████████░░░░░  75%
+  Socket.IO    ██████████████░░░░░░  70%
+```
 
-**Backend & Databases**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux,vscode&theme=dark" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-**Auth & Realtime**
-
-![OIDC](https://img.shields.io/badge/OIDC-0D1117?style=flat-square&logoColor=58A6FF)
-![OAuth2](https://img.shields.io/badge/OAuth2-0D1117?style=flat-square&logo=auth0&logoColor=58A6FF)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=58A6FF)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=58A6FF)
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
 ## Experience
 
@@ -74,7 +93,7 @@ Full-stack developer focused on building reliable, well-architected products end
 * shipped an AI training assistant and a REST-API-driven image generator
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
 ## Projects
 
@@ -87,7 +106,7 @@ Full-stack developer focused on building reliable, well-architected products end
 | **AIm Trainer** | AI-powered training assistant that adapts to skill level | `React` `AI Integration` `REST APIs` |
 | **Doggo Generator** | Random dog image generator with clean async API consumption | `React` `Axios` `REST APIs` |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
 ## GitHub Stats
 
@@ -100,16 +119,20 @@ Full-stack developer focused on building reliable, well-architected products end
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:58A6FF&height=1&width=100%"/>
 
 ## Contact
 
-| | |
-|---|---|
-| Email | ankitkumarsingh0207@gmail.com |
-| LinkedIn | linkedin.com/in/me-ankit-singh |
-| X | x.com/Ankitsingh97923 |
-| Blog | hashnode.com/@ankit282 |
+```bash
+$ cat contact.sh
+
+echo "Open to internships, full-time roles, and collaboration."
+
+MAIL="ankitkumarsingh0207@gmail.com"
+LINKEDIN="linkedin.com/in/me-ankit-singh"
+X="x.com/Ankitsingh97923"
+BLOG="hashnode.com/@ankit282"
+```
 
 <div align="center">
 
