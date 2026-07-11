@@ -1,22 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,50:007ACC,100:1E1E1E&height=4&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,50:007ACC,100:1E1E1E&height=3&width=100%"/>
+
+<br/>
+
+```
+                              ⬤
+        ╭──────────────────────────────────────────────────╮
+        │  🔴  🟡  🟢        ankit-kumar-singh — VS Code    │
+        ├──────────────────────────────────────────────────┤
+        │  File   Edit   View   Run   Terminal   Window     │
+        ╰──────────────────────────────────────────────────╯
+```
 
 </div>
 
-<div align="center">
-
-```
-●  ●  ●    ankit-kumar-singh — Visual Studio Code
-```
-
-</div>
-
-```
-┌─ EXPLORER ─────────────┬─ profile.ts ─┬─ stack.json ─┬─ contact.sh ─┬────┐
-```
-
-<table>
+<table width="100%">
 <tr>
 <td width="230" valign="top">
 
@@ -99,7 +98,7 @@ export default ankit;
 ## `src/projects/` — PROJECT FILES
 
 ```
-┌─ aim-trainer.ts ──────────────────────────────────────────────────────┐
+╭─ aim-trainer.ts ────────────────────────────────────────────────────╮
 ```
 
 ```typescript
@@ -111,7 +110,7 @@ repo:  "→ View Repo"
 ```
 
 ```
-┌─ doggo-gen.ts ─────────────────────────────────────────────────────────┐
+╭─ doggo-gen.ts ───────────────────────────────────────────────────────╮
 ```
 
 ```typescript
@@ -123,7 +122,7 @@ repo:  "→ View Repo"
 ```
 
 ```
-┌─ compiler.cpp ─────────────────────────────────────────────────────────┐
+╭─ compiler.cpp ──────────────────────────────────────────────────────╮
 ```
 
 ```cpp
@@ -134,7 +133,7 @@ std::vector<std::string> stack = {"C++", "Compiler Design", "Data Structures"};
 ```
 
 ```
-┌─ oidc-auth.ts ─────────────────────────────────────────────────────────┐
+╭─ oidc-auth.ts ──────────────────────────────────────────────────────╮
 ```
 
 ```typescript
@@ -146,7 +145,7 @@ repo:  "→ View Repo"
 ```
 
 ```
-┌─ trello-clone.ts ──────────────────────────────────────────────────────┐
+╭─ trello-clone.ts ───────────────────────────────────────────────────╮
 ```
 
 ```typescript
@@ -158,7 +157,7 @@ repo:  "→ View Repo"
 ```
 
 ```
-┌─ poll-app.ts ──────────────────────────────────────────────────────────┐
+╭─ poll-app.ts ───────────────────────────────────────────────────────╮
 ```
 
 ```typescript
@@ -174,7 +173,7 @@ repo:  "→ View Repo"
 ## `src/stack/` — DEPENDENCIES
 
 ```
-┌─ package.json ─────────────────────────────────────────────────────────┐
+╭─ package.json ──────────────────────────────────────────────────────╮
 ```
 
 <div align="center">
@@ -231,10 +230,19 @@ repo:  "→ View Repo"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,100:007ACC&height=2&width=100%"/>
 
-## TERMINAL — `bash`
+<div align="center">
+
+```
+                              ⬤
+        ╭──────────────────────────────────────────────────╮
+        │  🔴  🟡  🟢              zsh — contact.sh         │
+        ╰──────────────────────────────────────────────────╯
+```
+
+</div>
 
 ```bash
-ankit@devbox:~$ cat contact.sh
+ankit@macbook ~ % cat contact.sh
 
 #!/bin/bash
 echo "Want to collaborate, hire, or just talk tech?"
@@ -249,22 +257,27 @@ echo "→ $LINKEDIN"
 echo "→ $X"
 echo "→ $BLOG"
 
-ankit@devbox:~$ ▊
+ankit@macbook ~ % ▊
 ```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,50:007ACC,100:1E1E1E&height=4&width=100%"/>
+```
+        ╰──────────────────────────────────────────────────╯
+         ╲____________________________________________╱
+        ╱░░░░░░░░░░░░░░░░░░░░░●░░░░░░░░░░░░░░░░░░░░░░░░╲
+       ╱══════════════════════════════════════════════╲
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E1E,50:007ACC,100:1E1E1E&height=3&width=100%"/>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
-
-</div>
 
 ```
 ✓ 0 Problems   main*   UTF-8   LF   TypeScript   Ln 42, Col 7   Prettier
 ```
-
-<div align="center">
 
 ```
 ■ — EVERY LINE OF CODE IS A DECISION. MAKE IT COUNT. — ■
