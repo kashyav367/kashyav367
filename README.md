@@ -1,115 +1,98 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2EA043,100:0D1117&height=3&width=100%"/>
-
-<br/>
-
-```
-$ whoami
-```
-
 # Ankit Kumar Singh
-### `full-stack developer` · `builder of things that shouldn't be as hard as they are`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=git+commit+-m+%22it+works%2C+don%27t+ask+how%22;compiling+ideas+into+production;status%3A+shipping" alt="typing" />
+**Full-Stack Developer** — builder of things that shouldn't be as hard as they are.
 
-</div>
+> [!TIP]
+> `git commit -m "it works, don't ask how"`
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=1&width=100%"/>
-
-## `$ cat origin.log`
+## Origin
 
 Most people click away from a login page. I wanted to know what happens when you don't — what's actually firing between "Enter" and "Welcome back."
 
 That question got bigger before it got answered. A few years and a lot of broken builds later, it's a habit now: take systems apart to see how they hold together, then rebuild my own on purpose so they don't fall over in production.
 
-<br/>
+<br>
 
-## `$ ls -la stack/`
+## Tech Stack
 
-```
-languages/        C++  JavaScript  TypeScript  Python
-frontend/         React  Next.js  Tailwind CSS
-backend/          Node.js  Express  MongoDB  MySQL
-security/         OIDC  OAuth2  JWT
-realtime/         Socket.IO
-infra/            Git  GitHub  Docker  Linux
-```
+| Category | Tools |
+|---|---|
+| **Languages** | C++ · JavaScript · TypeScript · Python |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Express · MongoDB · MySQL |
+| **Security** | OIDC · OAuth2 · JWT |
+| **Realtime** | Socket.IO |
+| **Infra** | Git · GitHub · Docker · Linux |
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux&theme=dark" />
-</div>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=1&width=100%"/>
+## Projects
 
-## `$ git log --oneline --stat`
+<details>
+<summary><b>Authentication that doesn't cut corners</b></summary>
+<br>
 
-**`a1b2c3d` feat: authentication that doesn't cut corners**
-Full **OIDC/OAuth2** flow from scratch — access tokens, refresh tokens, scopes, real session handling. The version built to survive an audit, not a tutorial.
+Full OIDC/OAuth2 flow from scratch — access tokens, refresh tokens, scopes, real session handling. The version built to survive an audit, not a tutorial.
+</details>
 
-**`b3d4e5f` feat: kanban board, real-time drag & drop**
+<details>
+<summary><b>Kanban board — real-time drag & drop</b></summary>
+<br>
+
 A Trello-style board where every card move syncs live across every open tab. Looks simple. The state management underneath is where the real work lives.
+</details>
 
-**`c5f6a7b` feat: live polling at scale**
+<details>
+<summary><b>Live polling at scale</b></summary>
+<br>
+
 Socket.IO-powered — votes hit the chart the instant they're cast, hundreds of connections deep, no refresh required.
+</details>
 
-**`d7a8b9c` feat: a compiler, written by hand**
+<details>
+<summary><b>A compiler, written by hand</b></summary>
+<br>
+
 No frameworks, no shortcuts. Lexer → parser → codegen — built to understand what every other tool in this stack quietly does for me.
+</details>
 
-**`e9c0d1e` feat: two early experiments**
+<details>
+<summary><b>Two early experiments</b></summary>
+<br>
+
 An AI training assistant that adapts to skill level, and a dog-image generator that turned into a crash course in clean API design. Small repos, honest lessons.
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=1&width=100%"/>
+<br>
 
-## `$ cat STATUS`
+## Status
 
-```
-[✓] open to internship & full-time roles
-[✓] shipped: real-time polling app        (Socket.IO)
-[✓] shipped: OIDC/OAuth2 auth flow        (production-grade)
-[✓] shipped: Trello-style kanban board    (live sync)
-[✓] shipped: compiler                     (lexer → parser → codegen)
-[✓] shipped: AI trainer + image generator (early builds)
-[…] currently: looking for the next hard problem
-```
+- [x] Open to internship & full-time roles
+- [x] Shipped — real-time polling app (Socket.IO)
+- [x] Shipped — OIDC/OAuth2 auth flow (production-grade)
+- [x] Shipped — Trello-style kanban board (live sync)
+- [x] Shipped — compiler (lexer → parser → codegen)
+- [x] Shipped — AI trainer + image generator (early builds)
+- [ ] Currently: looking for the next hard problem
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=1&width=100%"/>
+<br>
 
-## `$ github-stats --verbose`
+> [!NOTE]
+> Got something worth building? Or just a hard problem you're stuck on? I'm around.
 
-<div align="center">
+## Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&ring_color=2EA043" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=c9d1d9" height="165"/>
+| Platform | Link |
+|---|---|
+| LinkedIn | https://www.linkedin.com/in/me-ankit-singh/ |
+| Portfolio | https://your-portfolio-link.com |
+| X (Twitter) | https://x.com/Ankitsingh97923 |
+| Hashnode | https://hashnode.com/@ankit282 |
+| Email | ankitkumarsingh0207@gmail.com |
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=8b949e"/>
+<br>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=1&width=100%"/>
-
-## `$ connect --to=me`
-
-Got something worth building? Or just a hard problem you're stuck on? I'm around.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2EA043)](https://www.linkedin.com/in/me-ankit-singh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=2EA043)](https://your-portfolio-link.com)
-[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=2EA043)](https://x.com/Ankitsingh97923)
-[![Hashnode](https://img.shields.io/badge/Hashnode-0D1117?style=flat-square&logo=hashnode&logoColor=2EA043)](https://hashnode.com/@ankit282)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2EA043)](mailto:ankitkumarsingh0207@gmail.com)
-
-<br/>
-
-```
-$ echo "thanks for reading this far — that's rarer than you'd think"
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=2EA043&style=flat-square&label=Visitors)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2EA043,100:0D1117&height=3&width=100%"/>
-
-</div>
+> [!IMPORTANT]
+> Thanks for reading this far — that's rarer than you'd think.
