@@ -21,9 +21,9 @@ $ whoami
 
 ## `$ cat origin.log`
 
-Most people click away from a login page. I wanted to know what happens when you don't — what's actually firing under the hood between "Enter" and "Welcome back."
+Most people click away from a login page. I wanted to know what happens when you don't — what's actually firing between "Enter" and "Welcome back."
 
-That question never really got answered, it just got bigger. A few years and a lot of broken builds later, it turned into a habit of taking systems apart to see how they hold themselves together — and putting my own back together, on purpose, so they don't fall over in production.
+That question got bigger before it got answered. A few years and a lot of broken builds later, it's a habit now: take systems apart to see how they hold together, then rebuild my own on purpose so they don't fall over in production.
 
 <br/>
 
@@ -47,19 +47,19 @@ infra/            Git  GitHub  Docker  Linux
 ## `$ git log --oneline --stat`
 
 **`a1b2c3d` feat: authentication that doesn't cut corners**
-Built a full **OIDC/OAuth2** flow from scratch — access tokens, refresh tokens, scopes, real session handling. Not the tutorial version. The version that has to survive an audit.
+Full **OIDC/OAuth2** flow from scratch — access tokens, refresh tokens, scopes, real session handling. The version built to survive an audit, not a tutorial.
 
 **`b3d4e5f` feat: kanban board, real-time drag & drop**
 A Trello-style board where every card move syncs live across every open tab. Looks simple. The state management underneath is where the real work lives.
 
 **`c5f6a7b` feat: live polling at scale**
-Socket.IO-powered polling app — votes render on the chart the instant they're cast, hundreds of connections deep, no refresh required.
+Socket.IO-powered — votes hit the chart the instant they're cast, hundreds of connections deep, no refresh required.
 
 **`d7a8b9c` feat: a compiler, written by hand**
-No frameworks, no shortcuts. Lexer → parser → codegen, built to understand what every other tool in this stack is quietly doing for me.
+No frameworks, no shortcuts. Lexer → parser → codegen — built to understand what every other tool in this stack quietly does for me.
 
 **`e9c0d1e` feat: two early experiments**
-An AI training assistant that adjusts to skill level, and a dog-image generator that turned into a crash course in clean API design. Small repos, honest lessons.
+An AI training assistant that adapts to skill level, and a dog-image generator that turned into a crash course in clean API design. Small repos, honest lessons.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=1&width=100%"/>
 
