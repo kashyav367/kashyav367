@@ -1,98 +1,79 @@
-# Ankit Kumar Singh
+<div align="center">
 
-**Full-Stack Developer** — builder of things that shouldn't be as hard as they are.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2EA043,100:0D1117&height=180&section=header&text=Ankit%20Kumar%20Singh&fontSize=42&fontColor=2EA043&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn"/>
 
-> [!TIP]
-> `git commit -m "it works, don't ask how"`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=git+commit+-m+%22it+works%2C+don%27t+ask+how%22;compiling+ideas+into+production;debugging+at+2+AM+again;status%3A+shipping" alt="typing" />
 
-<br>
+</div>
 
-## Origin
+<br/>
 
-Most people click away from a login page. I wanted to know what happens when you don't — what's actually firing between "Enter" and "Welcome back."
+## About me
 
-That question got bigger before it got answered. A few years and a lot of broken builds later, it's a habit now: take systems apart to see how they hold together, then rebuild my own on purpose so they don't fall over in production.
+Most people click away from a login page. I wanted to know what's actually firing under the hood between "Enter" and "Welcome back." That question turned into a habit — take systems apart, understand how they hold together, then rebuild my own so they don't fall over in production.
 
-<br>
+<br/>
 
 ## Tech Stack
 
-| Category | Tools |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux&theme=dark" />
+</div>
+
+<br/>
+
+## Featured Projects
+
+| Project | What it does |
 |---|---|
-| **Languages** | C++ · JavaScript · TypeScript · Python |
-| **Frontend** | React · Next.js · Tailwind CSS |
-| **Backend** | Node.js · Express · MongoDB · MySQL |
-| **Security** | OIDC · OAuth2 · JWT |
-| **Realtime** | Socket.IO |
-| **Infra** | Git · GitHub · Docker · Linux |
+| **Auth from scratch** | Full OIDC/OAuth2 flow — access tokens, refresh tokens, scopes, real session handling. Built to survive an audit. |
+| **Real-time Kanban board** | Trello-style board, every card move syncs live across every open tab instantly. |
+| **Live polling app** | Socket.IO powered — votes hit the chart the instant they're cast, hundreds of connections deep. |
+| **Hand-written compiler** | No frameworks. Lexer → parser → codegen, built to understand what every tool quietly does for me. |
+| **AI trainer + image generator** | Two early experiments — an adaptive AI tutor and a small image-generation API project. |
 
-<br>
+<br/>
 
-## Projects
+## Current Status
 
-<details>
-<summary><b>Authentication that doesn't cut corners</b></summary>
-<br>
+```
+[✓] open to internship & full-time roles
+[✓] shipped: real-time polling app        (Socket.IO)
+[✓] shipped: OIDC/OAuth2 auth flow        (production-grade)
+[✓] shipped: Trello-style kanban board    (live sync)
+[✓] shipped: compiler                     (lexer → parser → codegen)
+[…] currently: looking for the next hard problem
+```
 
-Full OIDC/OAuth2 flow from scratch — access tokens, refresh tokens, scopes, real session handling. The version built to survive an audit, not a tutorial.
-</details>
+<br/>
 
-<details>
-<summary><b>Kanban board — real-time drag & drop</b></summary>
-<br>
+## GitHub Stats
 
-A Trello-style board where every card move syncs live across every open tab. Looks simple. The state management underneath is where the real work lives.
-</details>
+<div align="center">
 
-<details>
-<summary><b>Live polling at scale</b></summary>
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&ring_color=2EA043" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=c9d1d9" height="165"/>
 
-Socket.IO-powered — votes hit the chart the instant they're cast, hundreds of connections deep, no refresh required.
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=8b949e"/>
 
-<details>
-<summary><b>A compiler, written by hand</b></summary>
-<br>
+</div>
 
-No frameworks, no shortcuts. Lexer → parser → codegen — built to understand what every other tool in this stack quietly does for me.
-</details>
-
-<details>
-<summary><b>Two early experiments</b></summary>
-<br>
-
-An AI training assistant that adapts to skill level, and a dog-image generator that turned into a crash course in clean API design. Small repos, honest lessons.
-</details>
-
-<br>
-
-## Status
-
-- [x] Open to internship & full-time roles
-- [x] Shipped — real-time polling app (Socket.IO)
-- [x] Shipped — OIDC/OAuth2 auth flow (production-grade)
-- [x] Shipped — Trello-style kanban board (live sync)
-- [x] Shipped — compiler (lexer → parser → codegen)
-- [x] Shipped — AI trainer + image generator (early builds)
-- [ ] Currently: looking for the next hard problem
-
-<br>
-
-> [!NOTE]
-> Got something worth building? Or just a hard problem you're stuck on? I'm around.
+<br/>
 
 ## Connect
 
-| Platform | Link |
-|---|---|
-| LinkedIn | https://www.linkedin.com/in/me-ankit-singh/ |
-| Portfolio | https://your-portfolio-link.com |
-| X (Twitter) | https://x.com/Ankitsingh97923 |
-| Hashnode | https://hashnode.com/@ankit282 |
-| Email | ankitkumarsingh0207@gmail.com |
+<div align="center">
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2EA043)](https://www.linkedin.com/in/me-ankit-singh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=2EA043)](https://your-portfolio-link.com)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=2EA043)](https://x.com/Ankitsingh97923)
+[![Hashnode](https://img.shields.io/badge/Hashnode-0D1117?style=for-the-badge&logo=hashnode&logoColor=2EA043)](https://hashnode.com/@ankit282)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2EA043)](mailto:ankitkumarsingh0207@gmail.com)
 
-> [!IMPORTANT]
-> Thanks for reading this far — that's rarer than you'd think.
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kashyav367&color=2EA043&style=for-the-badge&label=Visitors)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2EA043,100:0D1117&height=100&section=footer"/>
