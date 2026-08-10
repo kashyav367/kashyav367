@@ -1,29 +1,23 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2EA043,100:0D1117&height=180&section=header&text=Ankit%20Kumar%20Singh&fontSize=42&fontColor=2EA043&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=git+commit+-m+%22it+works%2C+don%27t+ask+how%22;compiling+ideas+into+production;debugging+at+2+AM+again;status%3A+shipping" alt="typing" />
-
 </div>
-
 <br/>
 
 ## About me
-
 Most people click away from a login page. I wanted to know what's actually firing under the hood between "Enter" and "Welcome back." That question turned into a habit — take systems apart, understand how they hold together, then rebuild my own so they don't fall over in production.
+
+📍 India &nbsp;•&nbsp; 🎯 Open to internship & full-time roles &nbsp;•&nbsp; 🤝 Always up for collaborating on something ambitious
 
 <br/>
 
 ## Tech Stack
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux&theme=dark" />
 </div>
-
 <br/>
 
 ## Featured Projects
-
 | Project | What it does |
 |---|---|
 | **Auth from scratch** | Full OIDC/OAuth2 flow — access tokens, refresh tokens, scopes, real session handling. Built to survive an audit. |
@@ -35,7 +29,6 @@ Most people click away from a login page. I wanted to know what's actually firin
 <br/>
 
 ## Current Status
-
 ```
 [✓] open to internship & full-time roles
 [✓] shipped: real-time polling app        (Socket.IO)
@@ -47,20 +40,22 @@ Most people click away from a login page. I wanted to know what's actually firin
 
 <br/>
 
+## Beyond code
+When I'm not taking systems apart, I'm usually reading about how large-scale infra is built, tinkering with side projects nobody asked for, or down a rabbit hole on whatever broke my code at 2 AM.
+
+<br/>
+
 ## GitHub Stats
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&ring_color=2EA043" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=c9d1d9" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=8b949e"/>
-
 </div>
 
 <br/>
 
-## Connect
+## Let's connect
+Building something interesting, hiring, or just want to talk systems design? Reach out — always down for a good conversation about hard problems.
 
 <div align="center">
 
