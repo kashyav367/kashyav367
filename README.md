@@ -18,13 +18,15 @@ Most people click away from a login page. I wanted to know what's actually firin
 <br/>
 
 ## Featured Projects
-| Project | What it does |
-|---|---|
-| **Auth from scratch** | Full OIDC/OAuth2 flow — access tokens, refresh tokens, scopes, real session handling. Built to survive an audit. |
-| **Real-time Kanban board** | Trello-style board, every card move syncs live across every open tab instantly. |
-| **Live polling app** | Socket.IO powered — votes hit the chart the instant they're cast, hundreds of connections deep. |
-| **Hand-written compiler** | No frameworks. Lexer → parser → codegen, built to understand what every tool quietly does for me. |
-| **AI trainer + image generator** | Two early experiments — an adaptive AI tutor and a small image-generation API project. |
+| Project | What it does | Built with | Links |
+|---|---|---|---|
+| **Auth from scratch** | Full OIDC/OAuth2 flow — access tokens, refresh tokens, scopes, real session handling. Built to survive an audit. | Node.js, Express, JWT | [Repo](#) · Demo — _add link_ |
+| **Real-time Kanban board** | Trello-style board, every card move syncs live across every open tab instantly. | React, Socket.IO, MongoDB | [Repo](#) · Demo — _add link_ |
+| **Live polling app** | Socket.IO powered — votes hit the chart the instant they're cast, hundreds of connections deep. | Socket.IO, Node.js, Chart.js | [Repo](#) · Demo — _add link_ |
+| **Hand-written compiler** | No frameworks. Lexer → parser → codegen, built to understand what every tool quietly does for me. | C++ | [Repo](#) |
+| **AI trainer + image generator** | Two early experiments — an adaptive AI tutor and a small image-generation API project. | Python | [Repo](#) |
+
+> 💡 Replace the `#` repo links and "add link" placeholders with your actual repo URLs and live demo links once deployed.
 
 <br/>
 
@@ -49,7 +51,8 @@ When I'm not taking systems apart, I'm usually reading about how large-scale inf
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&ring_color=2EA043" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyav367&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kashyav367&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=8b949e"/>
+
+<img src="https://streak-stats.demolab.com?user=kashyav367&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=8b949e" width="480"/>
 </div>
 
 <br/>
