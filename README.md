@@ -8,31 +8,21 @@
 
 <br/>
 
-```javascript
-// about-me.js
-const ankit = {
-  role: "Full-Stack Developer",
-  location: "India",
-  currentFocus: "understanding how systems actually work under the hood",
-  motivation: "most people click away from a login page —
-               I wanted to know what fires between 'Enter' and 'Welcome back'",
-  habit: "take systems apart -> understand how they hold together -> rebuild my own",
-  status: "open to internship & full-time roles",
-  funFact: "debugs best at 2 AM, no exceptions"
-};
-```
+## About me
+Most people click away from a login page. I wanted to know what's actually firing under the hood between "Enter" and "Welcome back." That question turned into a habit — take systems apart, understand how they hold together, then rebuild my own so they don't fall over in production.
+
+📍 India &nbsp;•&nbsp; 🎯 Open to internship & full-time roles &nbsp;•&nbsp; 🤝 Always up for collaborating on something ambitious
 
 <br/>
 
-## 🗂️ &nbsp;explorer
+## Tech Stack
 
 ```
-📁 tech-stack
- ┣ 📁 languages       → C++ · JavaScript · TypeScript · Python
- ┣ 📁 frontend        → React · Next.js · Tailwind CSS
- ┣ 📁 backend         → Node.js · Express
- ┣ 📁 database        → MongoDB · MySQL
- ┗ 📁 tools           → Git · GitHub · Docker · Linux
+Languages   C++ · JavaScript · TypeScript · Python
+Frontend    React · Next.js · Tailwind CSS
+Backend     Node.js · Express
+Database    MongoDB · MySQL
+Tools       Git · GitHub · Docker · Linux
 ```
 
 <div align="center">
@@ -41,77 +31,35 @@ const ankit = {
 
 <br/>
 
-## 📌 &nbsp;featured-projects.json
+## Featured Projects
 
-<table>
-<tr>
-<td width="100%">
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **FormVerse** ⭐ | Drag-and-drop form builder — design, customize, and collect responses without writing boilerplate. | TypeScript, React | [Repo](https://github.com/kashyav367/FormVerse) |
+| **safar-fm** | Travel-focused web app built to sharpen core JavaScript fundamentals through a real product. | JavaScript | [Repo](https://github.com/kashyav367/safar-fm) |
+| **Live polling app** | Socket.IO powered — votes hit the chart the instant they're cast, hundreds of connections deep. | Socket.IO, Node.js, Chart.js | _add repo link_ |
+| **Auth from scratch (OIDC/OAuth2)** | Full OIDC/OAuth2 flow — access tokens, refresh tokens, scopes, real session handling. Built to survive an audit. | Node.js, Express, JWT | _add repo link_ |
+| **Hand-written compiler** | No frameworks. Lexer → Parser → Codegen, built to understand what every tool quietly does for me. | C++ | _add repo link_ |
 
-```jsonc
-{
-  "auth-from-scratch": {
-    "description": "Full OIDC/OAuth2 flow — access tokens, refresh tokens, scopes, real session handling",
-    "note": "built to survive an audit",
-    "stack": ["Node.js", "Express", "JWT"],
-    "repo": "#",      // ← add your repo link
-    "demo": null       // ← add live demo if deployed
-  },
-  "realtime-kanban-board": {
-    "description": "Trello-style board — every card move syncs live across every open tab instantly",
-    "stack": ["React", "Socket.IO", "MongoDB"],
-    "repo": "#",
-    "demo": null
-  },
-  "live-polling-app": {
-    "description": "Socket.IO powered — votes hit the chart the instant they're cast, hundreds of connections deep",
-    "stack": ["Socket.IO", "Node.js", "Chart.js"],
-    "repo": "#",
-    "demo": null
-  },
-  "hand-written-compiler": {
-    "description": "No frameworks. Lexer → Parser → Codegen — built to understand what every tool quietly does for me",
-    "stack": ["C++"],
-    "repo": "#"
-  },
-  "ai-trainer-and-image-generator": {
-    "description": "Two early experiments — an adaptive AI tutor and a small image-generation API project",
-    "stack": ["Python"],
-    "repo": "#"
-  }
-}
-```
-
-</td>
-</tr>
-</table>
-
-> 💡 Replace the `#` repo fields and `null` demo fields with your actual links once ready.
+> Send me the repo links for the polling app, OIDC project, and compiler and I'll drop them in.
 
 <br/>
 
-## 💻 &nbsp;terminal
+## Current Status
 
-```bash
-ankit@dev:~$ whoami
-full-stack developer, systems curiosity, ships fast
+- 🎯 Open to internship & full-time roles
+- ✅ Shipped: real-time polling app (Socket.IO)
+- ✅ Shipped: OIDC/OAuth2 auth flow (production-grade)
+- ✅ Shipped: FormVerse — drag-and-drop form builder
+- ✅ Shipped: hand-written compiler (lexer → parser → codegen)
+- 🔍 Currently looking for the next hard problem
 
-ankit@dev:~$ status --current
-[✓] open to internship & full-time roles
-[✓] shipped: real-time polling app        (Socket.IO)
-[✓] shipped: OIDC/OAuth2 auth flow        (production-grade)
-[✓] shipped: Trello-style kanban board    (live sync)
-[✓] shipped: compiler                     (lexer → parser → codegen)
-[…] currently: looking for the next hard problem
-
-ankit@dev:~$ cat beyond-code.txt
-When I'm not taking systems apart, I'm usually reading about how
-large-scale infra is built, tinkering with side projects nobody
-asked for, or down a rabbit hole on whatever broke my code at 2 AM.
-```
+## Beyond code
+When I'm not taking systems apart, I'm usually reading about how large-scale infra is built, tinkering with side projects nobody asked for, or down a rabbit hole on whatever broke my code at 2 AM.
 
 <br/>
 
-## 📊 &nbsp;stats.view
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kashyav367&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&ring_color=2EA043" height="165"/>
@@ -122,13 +70,8 @@ asked for, or down a rabbit hole on whatever broke my code at 2 AM.
 
 <br/>
 
-## 🔌 &nbsp;connect.config
-
-```yaml
-# Building something interesting, hiring, or just want to
-# talk systems design? Reach out — always down for a good
-# conversation about hard problems.
-```
+## Let's connect
+Building something interesting, hiring, or just want to talk systems design? Reach out — always down for a good conversation about hard problems.
 
 <div align="center">
 
