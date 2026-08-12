@@ -1,4 +1,4 @@
-n<div align="center">
+<div align="center">
 
 <img src="./banner (1).png" alt="Ankit Kumar Singh banner" width="100%"/>
 
