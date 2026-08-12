@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2EA043,100:0D1117&height=180&section=header&text=Ankit%20Kumar%20Singh&fontSize=42&fontColor=2EA043&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn"/>
+<img src="./banner.png" alt="Ankit Kumar Singh banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=git+commit+-m+%22it+works%2C+don%27t+ask+how%22;building+APIs+that+don%27t+fall+over;shipping+features%2C+not+excuses;status%3A+open+to+work" alt="typing" />
 
@@ -50,6 +50,8 @@ Writing     Technical blogging on Hashnode
 | **FormVerse** ⭐ | No-code form builder — create, share, and collect responses to custom forms; automated secure handling of submissions and access. | React, Node.js, JavaScript | [GitHub](#) · [Live](#) |
 | **PulseBoard** | Real-time polling platform with anonymous/authenticated voting, automated expiry & validation, and live analytics dashboards. | React, Node.js, WebSockets | [GitHub](#) · [Live](#) |
 | **ShipFlow.ai** | AI product agent — turns a rough feature idea into a scoped technical plan, breaks it into tasks, and auto-reviews code against the spec. | React, Node.js, AI/LLM | [GitHub](#) · [Live](#) |
+| **safar-fm** | Travel-focused web app built to sharpen core JavaScript fundamentals through a real product. | JavaScript | [GitHub](https://github.com/kashyav367/safar-fm) |
+| **trello-project** | Trello-style task/project board app with a Node.js backend for managing boards, lists, and cards. | JavaScript, Node.js | [GitHub](https://github.com/kashyav367/trello-project) |
 
 > _Add the actual GitHub/Live links for FormVerse, PulseBoard, and ShipFlow.ai and I'll wire them in._
 
