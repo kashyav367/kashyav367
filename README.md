@@ -11,11 +11,11 @@ React on top, Node/Express underneath, JWT-secured, MongoDB-backed, shipped end 
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=2EA043" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=2EA043" /></a>
-<a href="https://hashnode.com/@YOUR_HASHNODE"><img src="https://img.shields.io/badge/HASHNODE-0D1117?style=for-the-badge&logo=hashnode&logoColor=2EA043" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=2EA043" /></a>
-<a href="mailto:ankitkrsingh0207@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=2EA043" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-2EA043?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-2EA043?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="https://hashnode.com/@YOUR_HASHNODE"><img src="https://img.shields.io/badge/HASHNODE-2EA043?style=for-the-badge&logo=hashnode&logoColor=0D1117" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-2EA043?style=for-the-badge&logo=leetcode&logoColor=0D1117" /></a>
+<a href="mailto:ankitkrsingh0207@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2EA043?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 </div>
 
@@ -123,12 +123,12 @@ Built reusable, performance-focused React UI components, translating design requ
 
 Building something interesting, hiring, or just want to talk about frontend/backend systems? Reach out.
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2EA043)](https://github.com/kashyav367)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2EA043)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=2EA043)](https://your-portfolio-link.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-0D1117?style=for-the-badge&logo=hashnode&logoColor=2EA043)](https://hashnode.com/@YOUR_HASHNODE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=2EA043)](https://leetcode.com/YOUR_LEETCODE)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2EA043)](mailto:ankitkrsingh0207@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2EA043?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/kashyav367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA043?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://your-portfolio-link.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2EA043?style=for-the-badge&logo=hashnode&logoColor=0D1117)](https://hashnode.com/@YOUR_HASHNODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2EA043?style=for-the-badge&logo=leetcode&logoColor=0D1117)](https://leetcode.com/YOUR_LEETCODE)
+[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:ankitkrsingh0207@gmail.com)
 
 <br/>
 
