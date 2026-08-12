@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Ankit Kumar Singh banner" width="100%"/>
+<img src="./banner (1).png" alt="Ankit Kumar Singh banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=git+commit+-m+%22it+works%2C+don%27t+ask+how%22;building+APIs+that+don%27t+fall+over;shipping+features%2C+not+excuses;status%3A+open+to+work" alt="typing" />
 
